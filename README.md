@@ -60,7 +60,7 @@ This tool automatically monitors your Path of Exile trade searches and attempts 
 4.  **First Run:**
     *   The bot needs a valid POESESSID to interact with the trade site. Log into the Path of Exile website in your web browser, then find your POESESSID cookie value (search online for "how to find POESESSID path of exile" if unsure).
     *   Click the "Add/Validate POESESSID" button in the bot and paste your copied POESESSID value. Give it a nickname (e.g., your account name).
-    *   Add your trade search URLs (e.g., `https://www.pathofexile.com/trade2/search/...`) using the input fields and assign tags.
+    *   Add your trade search URLs (e.g., `https://www.pathofexile.com/trade2/search/poe2/.../live`) using the input fields and assign tags.
     *   **Crucially, review the interval sliders:**
         *   **Check Interval:** Start at `15000` (15 seconds) or higher.
         *   **Min Click Interval:** Start at `3000` (3 seconds) or higher. **Lowering these significantly increases risk.**
