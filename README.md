@@ -84,4 +84,11 @@ This tool automatically monitors your Path of Exile trade searches and attempts 
 
 ---
 
+## Support me
+
+*   If you want to support me VOLUNTARILY (you are not entitled to a refund), you can do so at: https://www.paypal.com/paypalme/merlinczz
+
+---
+
+
 *Disclaimer: This tool is for educational purposes and convenience. Use responsibly and be fully aware of the risks associated with violating Path of Exile's Terms of Service.*
